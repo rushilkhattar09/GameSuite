@@ -1,0 +1,7 @@
+Minesweeper,user1,1,720
+Rullo,user3,2,550
+Minesweeper,user2,1,1026
+Connect4,user3,0,340
+Connect4,user4,3,792
+Minesweeper,user2,0,840
+Minesweeper,user1,1,520
